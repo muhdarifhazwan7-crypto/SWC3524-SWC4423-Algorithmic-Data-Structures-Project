@@ -6,10 +6,10 @@
 **Semester**: December 2025  
 
 ## Group Members
-1. [NURUL AIN BINTI ASRIN] - [Student ID]
-2. [MUHAMMAD ARIF HAZWAN BIN ADRUS] - [Student ID]
+1. [NURUL AIN BINTI ASRIN] - [AM2505018807]
+2. [MUHAMMAD ARIF HAZWAN BIN ADRUS] - [AM2505018602]
 3. [NIK MUHAMAD MASRIHAMDI BIN NIK MAN] - [Student ID]
-4. [AMMAR FAHIEM BIN SOHAIMI] - [Student ID]
+4. [AMMAR FAHIEM BIN SOHAIMI] - [AM2505018976]
 
 ## Project Overview
 This project solves the Marketing Campaign Optimization Problem (MCOP) using multiple algorithmic approaches to find the optimal route for UPTM's international marketing campaign.
