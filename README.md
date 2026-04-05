@@ -8,7 +8,7 @@
 ## Group Members
 1. [NURUL AIN BINTI ASRIN] - [AM2505018807]
 2. [MUHAMMAD ARIF HAZWAN BIN ADRUS] - [AM2505018602]
-3. [NIK MUHAMAD MASRIHAMDI BIN NIK MAN] - [Student ID]
+3. [NIK MUHAMAD MASRIHAMDI BIN NIK MAN] - [AM2505019032]
 4. [AMMAR FAHIEM BIN SOHAIMI] - [AM2505018976]
 
 ## Project Overview
@@ -29,13 +29,3 @@ This project solves the Marketing Campaign Optimization Problem (MCOP) using mul
 | City C   | 25   | 30     | 0      | 20     |
 | City D   | 35   | 28     | 20     | 0      |
 
-## How to Compile and Run
-
-### Prerequisites
-- Java JDK 8 or higher
-- Command line or IDE (BlueJ, Eclipse, IntelliJ)
-
-### Compilation
-```bash
-cd src/main
-javac *.java
